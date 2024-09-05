@@ -1,12 +1,22 @@
 # WAAM Cell Instruction Directory
 
-* Motion Primitive Command Control: https://github.com/rpiRobotics/dx200_motion_progam_exec
-* MotoSim License: https://github.com/rpiRobotics/dx200_motion_progam_exec/blob/main/Motosim.md
-* YCP21 CF Card: https://github.com/rpiRobotics/dx200_motion_progam_exec/blob/main/YCP21_CF_setup.md
-* FujiCAM Installation: 
-* MotoPlus Streaming with RR: 
+* [Motion Primitive Command Control](https://github.com/rpiRobotics/dx200_motion_progam_exec)
+* [MotoSim Setup](https://github.com/hehonglu123/WAAM_Cell_Instructions/blob/main/Motosim.md)
+* [YCP21 CF Card Setup](https://github.com/hehonglu123/WAAM_Cell_Instructions/blob/main/YCP21_CF_setup.md)
+* [FujiCAM Installation](https://github.com/hehonglu123/WAAM_Cell_Instructions/blob/main/FujiCAM_Installation.md) 
+* [MotoPlus Streaming with RR]() 
+* [Robot Calibration (Teachpendent)](https://github.com/hehonglu123/WAAM_Cell_Instructions/blob/main/Robot_Calibration.md)
 
+## Software Directories
+* [Modified Fronius RR Driver on Pi](https://github.com/hehonglu123/fronius_robotraconteur_driver)
+* [FujiCAM RR Driver](https://github.com/jmarcotte227/fc_RR_interface)
+* [FLIR RR Driver](https://github.com/robotraconteur-contrib/flir_thermal_camera_robotraconteur_driver)
+* [Motion Capture RR Driver](https://github.com/robotraconteur-contrib/optitrack_mocap_robotraconteur_driver)
+* [MTI RR Driver](https://github.com/robotraconteur-contrib/MTI_RR_Interface)
+* [Microphone RR Driver](https://github.com/robotraconteur-contrib/robotraconteur_microphone_driver)
+* [IR Calibration](https://github.com/hehonglu123/IR_Camera_Calibration)
 
-* Modified Fronius RR Driver on Pi: https://github.com/hehonglu123/fronius_robotraconteur_driver
-* FLIR RR Driver: https://github.com/robotraconteur-contrib/flir_thermal_camera_robotraconteur_driver
-* MTI RR Driver: https://github.com/robotraconteur-contrib/MTI_RR_Interface
+# To Be Completed
+
+* [Wire Swapping]()
+* [Robot Calibration (Mocap)]()
