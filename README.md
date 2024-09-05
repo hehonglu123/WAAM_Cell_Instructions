@@ -16,6 +16,14 @@
 * [Microphone RR Driver](https://github.com/robotraconteur-contrib/robotraconteur_microphone_driver)
 * [IR Calibration](https://github.com/hehonglu123/IR_Camera_Calibration)
 
+### Utility Functions
+* [flir_waam](https://github.com/rpiRobotics/flir_waam)
+* [convergent_manufacturing_utils](https://github.com/hehonglu123/convergent_manufacturing_utils)
+* [robotics_utils](https://github.com/hehonglu123/robotics_utils)
+* [dual_robot](https://github.com/hehonglu123/dual_robot)
+* [lambda_calc](https://github.com/hehonglu123/lambda_calc)
+
+
 # To Be Completed
 
 * [Wire Swapping]()
