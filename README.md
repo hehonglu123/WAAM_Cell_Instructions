@@ -4,7 +4,7 @@
 * [MotoSim Setup](https://github.com/hehonglu123/WAAM_Cell_Instructions/blob/main/Motosim.md)
 * [YCP21 CF Card Setup](https://github.com/hehonglu123/WAAM_Cell_Instructions/blob/main/YCP21_CF_setup.md)
 * [FujiCAM Installation](https://github.com/hehonglu123/WAAM_Cell_Instructions/blob/main/FujiCAM_Installation.md) 
-* [MotoPlus Streaming with RR]() 
+* [MotoPlus Streaming with RR](https://github.com/hehonglu123/WAAM_Cell_Instructions/blob/main/Streaming_Setup.md) 
 * [Robot Calibration (Teachpendent)](https://github.com/hehonglu123/WAAM_Cell_Instructions/blob/main/Robot_Calibration.md)
 
 ## Software Directories
